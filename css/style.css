@@ -237,6 +237,13 @@ header .follow a:hover{
     font-size: 3.5rem;
 }
 
+.about .row-1 .content .btn{
+    border-radius: 20px;
+    font-family: "Courier";
+    font-size: 20px;
+    margin-left: 30%;
+}
+
 .about .row-1 .content p{
     color:#666;
     font-size: 1.7rem;
@@ -463,6 +470,13 @@ header .follow a:hover{
     font-size: 2.5rem;
     color:#333;
     text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.portfolio .box-container .box h4{
+    margin-left: 12px;
+    margin-top: 40px;
+    color: rgb(88, 15, 110);;
 }
 
 .portfolio .box-container .box .icons{
